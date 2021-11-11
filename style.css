@@ -459,12 +459,12 @@ nav ul {
 	cursor: pointer;
 }
 .subscribe input {
-	height: 2.75rem;
+	height: 2.70rem;
 	outline: none;
 	border-radius: 0.25rem;
 }
 .copyright {
-	margin: 1.5rem;
+	margin: 1.4rem;
 	display: flex;
 	align-items: center;
 	justify-content: space-between;
